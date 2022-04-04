@@ -43,6 +43,7 @@
     ]
   },
   "devDependencies": {
-    "@types/react-bootstrap": "^0.32.29"
+    "@types/react-bootstrap": "^0.32.29",
+    "@types/react-input-mask": "^3.0.1"
   }
 }

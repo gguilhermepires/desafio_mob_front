@@ -2,6 +2,7 @@
   "dependencies": {
     "axios": "^0.26.1",
     "react-bootstrap": "^2.2.2",
+    "react-input-mask": "^2.0.4",
     "react-table": "^7.7.0"
   }
 }
