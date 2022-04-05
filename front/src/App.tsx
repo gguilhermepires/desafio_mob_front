@@ -74,7 +74,7 @@ function App() {
       <br></br>
       <Row>
         <Col sm="3"></Col>
-        <Col sm="6">Data: <InputMask mask="99/99/9999" value={data} onChange={onChangeData} />
+        <Col sm="6">Data: <InputMask mask="9999-99-99" value={data} onChange={onChangeData} />
           {'  '} Placa: <input value={placa} onChange={onChangePlaca} />
           {'  '} <Button variant="primary" onClick={onClickBusca}>Buscar</Button>
         </Col>
